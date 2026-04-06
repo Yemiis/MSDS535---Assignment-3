@@ -244,7 +244,8 @@ Steps:
 
 # Sample Output
 
-![output1](output1.png)
+<img width="745" height="495" alt="image" src="https://github.com/user-attachments/assets/a1446f36-b726-4d46-8043-70cf1418d9d1" />
+
 
 ![output2](output2.png)
 
