@@ -247,9 +247,15 @@ Steps:
 <img width="745" height="495" alt="image" src="https://github.com/user-attachments/assets/a1446f36-b726-4d46-8043-70cf1418d9d1" />
 
 
-![output2](output2.png)
+<img width="643" height="441" alt="image" src="https://github.com/user-attachments/assets/8fcd483a-155a-4161-8e24-e8384c69f510" />
 
-![output3](output3.png)
+
+<img width="746" height="496" alt="image" src="https://github.com/user-attachments/assets/c8661ab8-503e-4b27-a5d3-1766716a070f" />
+
+
+<img width="747" height="495" alt="image" src="https://github.com/user-attachments/assets/5714c883-2509-4feb-9b10-91438a32934a" />
+
+
 
 ------------------------------------------------------------------------
 
